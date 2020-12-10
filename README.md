@@ -1,5 +1,5 @@
 # Analise_Visualizacao_Covid
-## Trabalho Final da disciplina Análise Exploratória de Dados e Visualização (FGV 2020)
+Trabalho Final da disciplina Análise Exploratória de Dados e Visualização (FGV 2020)
 
 Esse projeto analisa e demostra, através de diversas visualizações, a evolução do Covid-19 no território Brasileiro. 
 
@@ -13,4 +13,4 @@ Outras bibliotecas auxiliares foram utilizadas durante o desenvolvimento do proj
 
 Última atualização: semana epidemiológia 26 (Brasil)
 
-#### Autores : Lívia Meinhardt e Luiz Luz 
+Autores : Lívia Meinhardt e Luiz Luz 
