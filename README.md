@@ -14,3 +14,5 @@ Outras bibliotecas auxiliares foram utilizadas durante o desenvolvimento do proj
 Última atualização: semana epidemiológia 26 (Brasil)
 
 Autores : Lívia Meinhardt e Luiz Luz 
+
+(https://youtu.be/SFKChNxgC4Y)
