@@ -15,5 +15,6 @@ Outras bibliotecas auxiliares foram utilizadas durante o desenvolvimento do proj
 
 Autores : Lívia Meinhardt e Luiz Luz 
 
+Vídeo Apresentação:
 [![Watch the video](https://img.youtube.com/vi/SFKChNxgC4Y/maxresdefault.jpg)](https://youtu.be/SFKChNxgC4Y)
 
