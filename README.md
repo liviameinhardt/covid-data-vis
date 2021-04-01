@@ -13,7 +13,10 @@ Outras bibliotecas auxiliares foram utilizadas durante o desenvolvimento do proj
 
 Última atualização: semana epidemiológia 26 (Brasil)
 
-Autores : Lívia Meinhardt e Luiz Luz 
+Autores : Lívia Meinhardt e Luiz Luz
+
+Disponível em: https://liviameinhardt.github.io/Analise_Visualizacao_Covid/AED_COVID.html
+
 
 Vídeo Apresentação:
 [![Watch the video](https://img.youtube.com/vi/SFKChNxgC4Y/maxresdefault.jpg)](https://youtu.be/SFKChNxgC4Y)
