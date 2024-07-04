@@ -1,23 +1,23 @@
-# Analise_Visualizacao_Covid
-Trabalho Final da disciplina Análise Exploratória de Dados e Visualização (FGV 2020)
+# Covid Data Vis
 
-Esse projeto analisa e demostra, através de diversas visualizações, a evolução do Covid-19 no território Brasileiro. 
+Final project for the course Exploratory Data Analysis and Visualization (FGV 2020)
 
-As visualizações foram criadas com as bibliotecas: ggplot2 e plotly (em R)
+This project analyzes and demonstrates, through various visualizations, the evolution of Covid-19 in the Brazilian territory.
 
-Os dados utilizados foram extraidos da página oficial: https://covid.saude.gov.br
+The visualizations were created using the libraries: ggplot2 and plotly (in R).
 
-Os mapas foram extraidos da biblioteca geobr
+The data used were extracted from the official page: https://covid.saude.gov.br
 
-Outras bibliotecas auxiliares foram utilizadas durante o desenvolvimento do projeto. 
+The maps were extracted from the geobr library.
 
-Última atualização: semana epidemiológia 26 (Brasil)
+Other auxiliary libraries were used during the development of the project.
 
-Autores : Lívia Meinhardt e Luiz Luz
+**Last update: epidemiological week 26 (Brazil).**
 
-Disponível em: https://liviameinhardt.github.io/Analise_Visualizacao_Covid/AED_COVID.html
+Authors: Lívia Meinhardt and Luiz Luz.
 
+Available at: [Covid Dashboard](https://liviameinhardt.github.io/covid-data-vis/AED_COVID.html)
 
-Vídeo Apresentação:
+Presentation Video (in Portuguese):
 [![Watch the video](https://img.youtube.com/vi/SFKChNxgC4Y/maxresdefault.jpg)](https://youtu.be/SFKChNxgC4Y)
 
